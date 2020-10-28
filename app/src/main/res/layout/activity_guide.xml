@@ -9,7 +9,7 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:orientation="vertical"
-    tools:context=".GuideActivity">
+    tools:context=".activity.GuideActivity">
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewPager"
         android:layout_height="match_parent"

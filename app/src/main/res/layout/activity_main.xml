@@ -6,14 +6,13 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="bottom"
-    tools:context=".MainActivity">
+    tools:context=".activity.MainActivity">
 
     <FrameLayout
         android:id="@+id/main_content"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
-
     </FrameLayout>
     <RadioGroup
         android:id="@+id/main_bottom_tabs"
@@ -51,6 +50,6 @@
             android:drawableTop="@drawable/main_my_selector"
             android:text="我的"/>
 
-
     </RadioGroup>
+
 </LinearLayout>

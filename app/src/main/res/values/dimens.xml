@@ -9,6 +9,7 @@
 <!--  间距  -->
     <dimen name="normal_space">10dp</dimen>
     <dimen name="little_space">5dp</dimen>
+    <dimen name="big_space">20dp</dimen>
 <!--  高度  -->
     <dimen name="normal_input_height">45dp</dimen>
 </resources>
